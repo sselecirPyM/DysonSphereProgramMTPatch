@@ -16,3 +16,5 @@ Dyson Sphere Program Multiple Threading Patch
 * 从steam或者你的购买平台运行游戏。
 
 真 · 我和开发者比速度系列。我和开发者比代码系列。（滑稽）
+
+~鬼才开发组，梦回单核时代~
