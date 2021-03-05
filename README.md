@@ -3,7 +3,9 @@ Dyson Sphere Program Multiple Threading Patch
 
 戴森球计划多线程补丁，有效改善大后期帧率不足的状况，祝你踏平每一个星系。
 
-副作用是会把游戏的.net framework改成4.0，所以你的mod会失效，请注意。
+~副作用是会把游戏的.net framework改成4.0，所以你的mod会失效，请注意。~
+
+经过一段时间反馈，很多mod还是能用的。
 
 点击右边的Release下载。
 
