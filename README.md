@@ -7,7 +7,7 @@ Dyson Sphere Program Multiple Threading Patch
 
 经过一段时间反馈，很多mod还是能用的。
 
-点击右边的Release下载。
+点击[这里](https://github.com/sselecirPyM/DysonSphereProgramMTPatch/releases)下载。
 
 补丁只能针对特定的版本，如果游戏更新则需要发布新的补丁。如果游戏更新解决了这个问题那么补丁就不会更新。（等开发组吃人）
 
